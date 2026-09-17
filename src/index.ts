@@ -12,3 +12,4 @@ export * from './rbac.js';
 export * from './redis-cache.js';
 export * from './cors.js';
 export * from './security-headers.js';
+export * from './swagger.js';
