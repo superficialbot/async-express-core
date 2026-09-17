@@ -11,3 +11,4 @@ export * from './jwt-auth.js';
 export * from './rbac.js';
 export * from './redis-cache.js';
 export * from './cors.js';
+export * from './security-headers.js';
