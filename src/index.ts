@@ -6,3 +6,4 @@ export * from './validation.js';
 export * from './response-formatter.js';
 export * from './graceful-shutdown.js';
 export * from './health-check.js';
+export * from './db-pool.js';
