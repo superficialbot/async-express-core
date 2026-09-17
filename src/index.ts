@@ -13,3 +13,4 @@ export * from './redis-cache.js';
 export * from './cors.js';
 export * from './security-headers.js';
 export * from './swagger.js';
+export * from './websocket.js';
