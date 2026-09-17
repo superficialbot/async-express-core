@@ -20,3 +20,4 @@ export * from './email-service.js';
 export * from './analytics.js';
 export * from './metrics.js';
 export * from './env-config.js';
+export * from './request-id.js';
