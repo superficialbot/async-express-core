@@ -10,3 +10,4 @@ export * from './db-pool.js';
 export * from './jwt-auth.js';
 export * from './rbac.js';
 export * from './redis-cache.js';
+export * from './cors.js';
