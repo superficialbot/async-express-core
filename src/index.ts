@@ -22,3 +22,4 @@ export * from './metrics.js';
 export * from './env-config.js';
 export * from './request-id.js';
 export * from './pagination.js';
+export * from './version.js';
