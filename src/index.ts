@@ -17,3 +17,4 @@ export * from './websocket.js';
 export * from './file-upload.js';
 export * from './job-queue.js';
 export * from './email-service.js';
+export * from './analytics.js';
