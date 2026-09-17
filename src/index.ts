@@ -5,3 +5,4 @@ export * from './logger.js';
 export * from './validation.js';
 export * from './response-formatter.js';
 export * from './graceful-shutdown.js';
+export * from './health-check.js';
